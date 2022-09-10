@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
 *main - Entry point
-*Return: The last digit 
+*Return:The last digit 
 */
 int main(void)
 {
