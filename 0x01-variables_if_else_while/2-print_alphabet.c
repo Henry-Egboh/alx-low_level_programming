@@ -11,5 +11,6 @@ int main(void)
 {
 	putchar(xter);
 }
+	putchar('\n');
 	return (0);
 }
