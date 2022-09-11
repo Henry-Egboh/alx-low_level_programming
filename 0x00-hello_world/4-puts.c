@@ -1,11 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
- *
- * Description: A program that prints a line of text with puts
- *
- * Result: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
