@@ -9,4 +9,5 @@
  * Description: Putchar function for output
  */
 int _putchar(char c);
+void print_alphabet(void);
 #endif
