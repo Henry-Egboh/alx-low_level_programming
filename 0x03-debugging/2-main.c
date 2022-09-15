@@ -1,9 +1,9 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
- * main - Run te code
- * Return: Always 0
+ * main - print the largest of three integers
+ * Return: 0
  */
 
 int main(void)
