@@ -1,3 +1,5 @@
+#include "main.h"
+#include <unistd.h>
 /**
  * _putchar - write sth
  * @c: input
