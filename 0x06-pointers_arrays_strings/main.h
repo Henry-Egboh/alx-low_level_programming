@@ -9,5 +9,6 @@ char *string_toupper(char *str);
 char *cap_string(char *s);
 char *leet(char *s);
 void reverse_array(int *a, int n);
+char *rot13(char *s);
 char *_strcat(char *dest, char *src);
 #endif /*MAIN_H*/
