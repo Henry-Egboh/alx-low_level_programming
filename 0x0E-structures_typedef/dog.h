@@ -8,7 +8,7 @@
  * @owner: owner of dog
  * Description: dog that store values
  */
-
+typedef struct dog dog_t;
 struct dog
 {
 	char *name;
