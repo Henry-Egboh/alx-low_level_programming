@@ -4,6 +4,7 @@
  * add_nodeint - add a node
  * @head: link list
  * @n: integer
+ * Return: a value head
  */
 
 listint_t *add_nodeint(listint_t **head, const int n)
